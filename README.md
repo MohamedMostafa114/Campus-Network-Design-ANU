@@ -1,6 +1,6 @@
 # Campus Network Design – ANU
 
-![Project Banner](assets/anu-network-banner.png)
+<img width="518" height="208" alt="image" src="https://github.com/user-attachments/assets/fa06acb2-07eb-481b-8fc9-b559c8672c75" />
 
 ## Overview
 This project presents the **LAN network design** and **IP addressing plan** for multiple buildings in a campus environment.  
